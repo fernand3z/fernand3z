@@ -18,7 +18,6 @@ Let’s connect and build something amazing together! 🌍
 
 ---
 
-Feel free to customize it further to match your style!
 
 
 ## 🌐 Socials:

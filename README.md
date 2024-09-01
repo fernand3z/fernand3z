@@ -1,8 +1,8 @@
 # 💫 About Me:
-Here's a creative and concise "About Me" section for your GitHub profile:
+
 
 ---
-<pre>
+
 ### 👋 Hi there! I'm [Your Name]
 
 I'm a passionate software engineer with a love for solving complex problems through code. 💻 I'm mostly self-taught, which has given me a relentless drive to learn and explore new technologies. 🚀
@@ -18,7 +18,7 @@ Let’s connect and build something amazing together! 🌍
 
 ---
 
-Feel free to customize it further to match your style!</pre>
+Feel free to customize it further to match your style!
 
 
 ## 🌐 Socials:

@@ -1,0 +1,115 @@
+/* Dracula Theme Base */
+body {
+    background-color: #282a36; /* Background */
+    color: #f8f8f2; /* Foreground */
+    font-family: "JetBrains Mono", monospace;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    color: #ff79c6; /* Pink for headings */
+    text-align: center;
+}
+
+.container {
+    max-width: 1000px;
+    margin: 0 auto;
+    padding: 2rem;
+}
+
+/* Code Block Styling */
+pre {
+    background-color: #44475a; /* Code block background */
+    color: #f8f8f2; /* Default text color */
+    padding: 1.5em;
+    border-radius: 8px;
+    overflow-x: auto;
+    max-width: 90%; /* Limit width to 90% of viewport */
+    width: 800px; /* Set a default width */
+    margin: 2rem auto; /* Center the block horizontally */
+    box-sizing: border-box; /* Include padding in width calculation */
+}
+
+code {
+    display: block;
+    font-family: "JetBrains Mono", monospace;
+    font-size: 1rem;
+    white-space: pre-wrap; /* Enable wrapping */
+    margin: 0 auto; /* Center the code content */
+}
+
+/* Tokens */
+.comment { color: #6272a4; } /* Comments */
+.keyword { color: #ff79c6; } /* Keywords */
+.string { color: #50fa7b; } /* Strings */
+.function { color: #8be9fd; } /* Functions */
+.number, .constant { color: #bd93f9; } /* Numbers and constants */
+.property { color: #f1fa8c; } /* Properties */
+.boolean { color: #ffb86c; } /* Booleans */
+.link { color: #8be9fd; text-decoration: none; } /* Hyperlinks */
+.link:hover { color: #50fa7b; } /* Hover effect for links */
+
+/* Education section styles */
+.education-header {
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    padding-right: 20px;
+}
+
+.education-header:hover {
+    opacity: 0.8;
+}
+
+.collapse-icon {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #6272a4;
+    font-size: 0.8em;
+}
+
+.education-details {
+    margin-top: 1em;
+}
+
+/* Experience section styles */
+.experience-header {
+    cursor: pointer;
+    user-select: none;
+    position: relative;
+    padding-right: 20px;
+}
+
+.experience-header:hover {
+    opacity: 0.8;
+}
+
+.collapse-icon-adventa,
+.collapse-icon-npc-admin,
+.collapse-icon-npc-assistant {
+    position: absolute;
+    right: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #6272a4;
+    font-size: 0.8em;
+}
+
+.experience-details {
+    margin-top: 1em;
+}
+
+/* Remove all certification-related styles */
+.certification-header,
+.collapsible-section,
+.collapse-bar,
+.collapse-icon-cert,
+#certificationDetails {
+    display: none;
+}
+
+

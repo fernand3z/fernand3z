@@ -112,4 +112,82 @@ code {
     display: none;
 }
 
+.certifications-wrapper {
+    position: relative;
+    padding-bottom: 15px;
+}
+
+.collapse-bar {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 10px;
+    height: 6px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #2d2d2d;
+    border-radius: 2px;
+    margin-top: 5px;
+}
+
+.collapse-icon-cert {
+    font-size: 8px;
+    color: #fff;
+    line-height: 1;
+}
+
+#certificationDetails {
+    margin-top: 5px;
+}
+
+/* Add these new rules */
+.main-certificates {
+    margin-bottom: 5px;
+}
+
+.certifications-wrapper pre,
+.certifications-wrapper code {
+    margin: 0;
+    padding: 0;
+}
+
+.certificate-item {
+    margin: 0;
+    padding: 0;
+    display: block;
+    line-height: normal;
+}
+
+#collapsibleCerts {
+    margin: 0;
+    padding: 0;
+    line-height: normal;
+}
+
+.collapse-trigger {
+    cursor: pointer;
+    user-select: none;
+    display: block;
+    margin: 0;
+    padding: 0;
+    line-height: normal;
+}
+
+/* Remove any whitespace between elements */
+.certificate-item + .certificate-item,
+#collapsibleCerts + .collapse-trigger {
+    margin-top: 0;
+}
+
+.certificate-item:last-child {
+    margin-bottom: 0;    /* Remove margin from last certificate */
+}
+
+.collapse-trigger:hover {
+    opacity: 0.8;
+}
+
 

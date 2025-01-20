@@ -75,3 +75,29 @@ document.addEventListener('DOMContentLoaded', function() {
     document.getElementById('npcAssistantDetails').style.display = 'none';
     document.querySelector('.collapse-icon-npc-assistant').textContent = '▶';
 });
+
+function toggleCertifications() {
+    const details = document.getElementById('certificationDetails');
+    const icon = document.querySelector('.collapse-icon-cert');
+    
+    if (details.style.display === 'none') {
+        details.style.display = 'block';
+        icon.textContent = '▼';
+    } else {
+        details.style.display = 'none';
+        icon.textContent = '▶';
+    }
+}
+
+function toggleCerts() {
+    const certs = document.getElementById('collapsibleCerts');
+    const trigger = document.querySelector('.collapse-trigger');
+    
+    if (certs.style.display === 'none') {
+        certs.style.display = 'block';
+        trigger.textContent = '//less';
+    } else {
+        certs.style.display = 'none';
+        trigger.textContent = '//more';
+    }
+}

@@ -8,7 +8,7 @@
 // About Fernando
 
 const softwareEngineer = {
-  name: "Fernando",
+  name: "Amoda Fernando",
   role: "Software Engineer",
   description: `
     Passionate developer with a knack for solving complex problems through code.

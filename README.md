@@ -41,4 +41,10 @@ console.log(softwareEngineer.connect());
 
 
 
-Visit my portfolio: [fernand3z.github.io](https://fernand3z.dev)
+Visit my portfolio: [fernand3z.dev](https://fernand3z.dev)
+
+---
+## My Most Used Languages (Donut Chart)
+
+[![Languages](https://github-profile-summary-cards.vercel.app/api/cards/languages?username=fernand3z&theme=tokyonight&layout=donut)](https://github.com/fernand3z)
+

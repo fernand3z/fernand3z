@@ -41,7 +41,7 @@ console.log(softwareEngineer.connect());
 
 
 
-Visit my portfolio: [fernand3z.dev](https://fernand3z.dev)
+// Visit my portfolio: [fernand3z.dev](https://fernand3z.dev)
 
 ---
 

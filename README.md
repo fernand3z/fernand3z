@@ -45,7 +45,7 @@ Visit my portfolio: [fernand3z.dev](https://fernand3z.dev)
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernand3z&layout=compact&theme=shadow_blue&hide_border=true&border_radius=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernand3z&layout=compact&theme=radical&hide_border=true&border_radius=8)
 
 
 

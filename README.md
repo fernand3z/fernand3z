@@ -45,6 +45,6 @@ console.log(softwareEngineer.connect());
 
 ---
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernand3z&layout=compact&theme=tokyonight&hide_border=true&border_radius=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernand3z&layout=compact&theme=radical&hide_border=true&border_radius=6&bg_color=151B23)
 
 

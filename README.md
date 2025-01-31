@@ -46,5 +46,22 @@ console.log(softwareEngineer.connect());
 ---
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernand3z&layout=compact&theme=radical&hide_border=true&border_radius=6&bg_color=151B23)
+---
+<table>
+<thead>
+<tr>
+<th>
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://github-readme-stats.vercel.app/api?username=fernand3z&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true">
+<img src="https://github-readme-stats.vercel.app/api?username=fernand3z&show_icons=true&bg_color=303446&text_color=c6d0f5&icon_color=ca9ee6&title_color=81c8be&hide_border=true" alt="fernand3z's GitHub stats" style="max-width: 100%;">
+</a>
+</th>
+<th>
+<a href="https://git.io/streak-stats" rel="nofollow">
+<img src="https://streak-stats.demolab.com?user=fernand3z&theme=catppuccin-frappe&hide_border=true" alt="GitHub Streak" style="max-width: 100%;">
+</a>
+</th>
+</tr>
+</thead>
+</table>
 
 

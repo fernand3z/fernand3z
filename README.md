@@ -44,9 +44,6 @@ console.log(softwareEngineer.connect());
 // Visit my portfolio: [fernand3z.dev](https://fernand3z.dev)
 
 ---
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fernand3z&layout=compact&theme=radical&hide_border=true&border_radius=6&bg_color=151B23)
----
 <table>
 <thead>
 <tr>

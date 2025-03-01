@@ -12,7 +12,8 @@ const softwareEngineer = {
   role: "Software Engineer",
   description: `
     Passionate developer with a knack for solving complex problems through code.
-    Self-taught and driven by an unyielding curiosity to explore and master new technologies.
+    Self-taught and driven by an unyielding curiosity to explore and
+    master new technologies.
   `,
   skills: [
     "Full-Stack Development",
